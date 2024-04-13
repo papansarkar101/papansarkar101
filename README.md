@@ -1,6 +1,6 @@
 # Welcome to Papan Sarkar's GitHub! 🚀
 
-## Full Stack Developer | Development Manager 🌟
+## Top Rated Seller at Upwork | Full Stack Developer | Development Manager at Total Recall 🌟
 
 📍 **Location:** Kolkata, India  
 📧 **Email:** [papansarkar101@gmail.com](mailto:papansarkar101@gmail.com)  
