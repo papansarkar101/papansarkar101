@@ -22,11 +22,33 @@ I'm an **experienced Django-React Full Stack developer** passionate about crafti
 
 ### 🛠️ Skills:
 
-- **Web Development:** Django, React.js ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-- **Project Management:** Experienced in leading development projects from conception to deployment
-- **Software Architecture:** Designing robust software solutions for complex problems
-- **Programming Languages:** Python, JavaScript ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-- **Tools & Technologies:** Figma, Git, Docker, AWS ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+#### Web Development:
+- **Django** ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+- **React.js** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+- **Node.js** ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+- **Express.js** ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
+- **MongoDB** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+#### Project Management:
+- Experienced in leading development projects from conception to deployment.
+- Proficient with agile methodologies and tools like **Jira** ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira).
+
+#### Software Architecture:
+- Designing robust software solutions for complex problems.
+- Skilled in microservices architecture using **Docker** ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) and **Kubernetes** ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes).
+
+#### Programming Languages:
+- **Python** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+- **TypeScript** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+
+#### Tools & Technologies:
+- **Figma** ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+- **Git** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+- **AWS** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws)
+- **Azure** ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure)
+- **GraphQL** ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+
 
 ---
 
