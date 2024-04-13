@@ -1,13 +1,13 @@
-# Welcome to Papan Sarkar's GitHub! 🚀
-
-
-
 ## Top Rated Seller at Upwork | Full Stack Developer | Development Manager at Total Recall 🌟
 
-📍 **Location:** Kolkata, India  
-📧 **Email:** [papansarkar101@gmail.com](mailto:papansarkar101@gmail.com)  
-📱 **Phone:** +919091123159  
-🌐 **Websites:** [Personal Website](http://www.papansarkar.com) | [Yestoideas](http://www.yestoideas.com)
+### 🌐 Connect with Me:
+
+📌 **Location:** Kolkata, India  
+📬 **Email:** [Send Email](mailto:papansarkar101@gmail.com)  
+📞 **Phone:** [+91 9091123159](tel:+919091123159)  
+🔗 **Websites:** [Personal Website](http://www.papansarkar.com) | [Yestoideas](http://www.yestoideas.com)
+
+Feel free to reach out to me for project collaborations or consultancy inquiries. I'm always open to discussing new projects or creative ideas.
 
 ---
 
@@ -90,6 +90,8 @@ _St. Mary Technical Campus Kolkata_
 - **Bengali:** Native
 
 ---
+
+###
 
 🌟 **Thank you for visiting my GitHub profile!**  
 For collaborations or inquiries, feel free to reach out via email or phone.
