@@ -40,9 +40,6 @@ I'm an **experienced Django developer** passionate about crafting highly functio
 - Specializing in robust web design and development solutions tailored for diverse business needs.
 - Expertise in React, Django, and modern web technologies to deliver top-tier websites.
 
-#### 🖥️ **Freelance Full Stack Web Developer on Upwork, USA** (February 2024 - Present)
-- Recognized as a Top Rated Seller, specializing in complex Django and React projects, consistently delivering high-quality solutions.
-
 #### 🌐 **Freelance Full Stack Web Developer on Fiverr Platform, USA** (February 2019 - January 2024)
 - Achieved Level 2 Seller status by completing over 60 projects, focusing on enhancing web functionality and aesthetics.
 
