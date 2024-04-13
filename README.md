@@ -1,5 +1,7 @@
 # Welcome to Papan Sarkar's GitHub! 🚀
 
+
+
 ## Top Rated Seller at Upwork | Full Stack Developer | Development Manager at Total Recall 🌟
 
 📍 **Location:** Kolkata, India  
@@ -11,7 +13,10 @@
 
 ### 👤 About Me:
 
-I'm an **experienced Django developer** passionate about crafting highly functional web applications that exceed client expectations. With over five years of expertise in Python, Django, and front-end technologies, I thrive on delivering tailored solutions that align perfectly with client needs. Currently, I lead a team at Total Recall, USA, creating cutting-edge mass messaging platforms to enhance global communication and safety.
+![Papan Sarkar](https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
+
+I'm an **experienced Django-React Full Stack developer** passionate about crafting highly functional web applications that exceed client expectations. With over five years of expertise in Python, Django, and front-end technologies, I thrive on delivering tailored solutions that align perfectly with client needs. Currently, I lead a team at Total Recall, USA, creating cutting-edge mass messaging platforms to enhance global communication and safety.
 
 ---
 
