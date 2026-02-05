@@ -30,6 +30,41 @@ I'm an **experienced Django-React Full Stack developer** passionate about crafti
 - **MongoDB** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
 #### Project Management:
+* **Gyanbeej** — [https://gyanbeej.com/](https://gyanbeej.com/)
+* **Iron Fort** — [https://gofironfort.com/us](https://gofironfort.com/us)
+* **Pitchline.ai** — [https://www.pitchline.ai/](https://www.pitchline.ai/)
+* **FleetDrive 360** — [https://www.fleetdrive360.com/](https://www.fleetdrive360.com/)
+* **Sox Logistics** — [https://soxlogistics.com/](https://soxlogistics.com/)
+* **Rankeval** — [https://rankeval.ai/](https://rankeval.ai/)
+* **Eraloop** — [https://eraloop.co.uk/](https://eraloop.co.uk/)
+* **ePhone** — [https://ephoneworldwide.com](https://ephoneworldwide.com)
+* **Finnncoin.ai** — [https://finncoin.ai/](https://finncoin.ai/)
+* **DrayToDock** — [https://draytodock.com/](https://draytodock.com/)
+* **Dryer Vent Wizard** — [https://dryerventwizard.com/](https://dryerventwizard.com/)
+* **Happy Planet Softwash** — [https://happyplanetws.com/](https://happyplanetws.com/)
+* **Instinct Pest Management** — [https://www.instinctpest.com/](https://www.instinctpest.com/)
+* **LightingIn Solution** — [https://lightingsolutionsllc.netlify.app/](https://lightingsolutionsllc.netlify.app/)
+* **IGO Social** — [https://igo.social/](https://igo.social/)
+* **Oddsbook** — [https://www.oddsbook.com/](https://www.oddsbook.com/)
+* **Decktext** — [https://www.decktext.com/](https://www.decktext.com/)
+* **My Vibe Quotient** — [https://myvibequotient.com/](https://myvibequotient.com/)
+* **Amigoas** — [https://www.aventurasmezcal.com/](https://www.aventurasmezcal.com/)
+* **Entertainment Coach** — [https://entertainmentcoach.com](https://entertainmentcoach.com)
+* **Grant Phillips** — [https://grantphillips.studio](https://grantphillips.studio)
+* **Hanna Helsens** — [https://www.hanna-helsens.com/](https://www.hanna-helsens.com/)
+* **WaterOk** — [https://login.waterok.co.il/](https://login.waterok.co.il/)
+* **Road Safety Center** — [https://road-safety-center.netlify.app/](https://road-safety-center.netlify.app/)
+* **L2 Global Technologies** — [https://l2global.live/](https://l2global.live/)
+* **Funnel X ROI** — [https://funnelxroi.com/](https://funnelxroi.com/)
+* **Cloud Edge** — [https://cloudedge.in](https://cloudedge.in)
+* **SamajTree** — [https://samajtree.netlify.app](https://samajtree.netlify.app)
+* **Kishan Gym** — [https://kishan-gym.netlify.app/](https://kishan-gym.netlify.app/)
+* **Little Draw** — [https://little-draw-html.netlify.app/public/](https://little-draw-html.netlify.app/public/)
+* **Better Broker** — [https://aupe-blancmange-df91d3.netlify.app/](https://aupe-blancmange-df91d3.netlify.app/)
+* **IPCO** — [https://ipco-greamy-snuff.netlify.app/](https://ipco-greamy-snuff.netlify.app/)
+
+
+#### Project Management:
 - Experienced in leading development projects from conception to deployment.
 - Proficient with agile methodologies and tools like **Jira** ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira).
 
