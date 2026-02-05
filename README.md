@@ -29,7 +29,7 @@ I'm an **experienced Django-React Full Stack developer** passionate about crafti
 - **Express.js** ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 - **MongoDB** ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 
-#### Project Management:
+#### Portfolio:
 * **Gyanbeej** — [https://gyanbeej.com/](https://gyanbeej.com/)
 * **Iron Fort** — [https://gofironfort.com/us](https://gofironfort.com/us)
 * **Pitchline.ai** — [https://www.pitchline.ai/](https://www.pitchline.ai/)
