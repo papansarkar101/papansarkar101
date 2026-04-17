@@ -1,4 +1,4 @@
-## Top Rated Seller at Upwork | Full Stack Developer | Development Manager at Total Recall 
+## Building Scalable AI & Web Solutions | Senior Full Stack Engineer & Co-founder at Yestoideas | Python, Django, FastAPI, MERN
 
 ### 🌐 Connect with Me:
 
@@ -16,7 +16,13 @@ Feel free to reach out to me for project collaborations or consultancy inquiries
 ![Papan Sarkar](https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
 
 
-I'm an **experienced Django-React Full Stack developer** passionate about crafting highly functional web applications that exceed client expectations. With over five years of expertise in Python, Django, and front-end technologies, I thrive on delivering tailored solutions that align perfectly with client needs. Currently, I lead a team at Total Recall, USA, creating cutting-edge mass messaging platforms to enhance global communication and safety.
+Papan Sarkar is a Senior Full Stack & AI Engineer and the founder of the technical team at Yestoideas. With over 6 years of hands-on experience, he specializes in designing and building scalable, high-performance software systems using Python, Django, FastAPI, and the MERN stack.
+
+He has led the architecture and development of multiple production-grade platforms, including Gyanbeej, MandarinBoost, FleetDrive360, Ironfort, and RankEval.ai, delivering robust and reliable solutions across diverse domains.
+
+His expertise spans backend engineering, system design, RESTful APIs, microservices architecture, and AI-driven applications. Passionate about building efficient and scalable systems, he focuses on driving innovation and engineering excellence.
+
+In addition to his development work, Papan is an active technology writer, sharing insights on software engineering, artificial intelligence, and best practices to help developers build better systems.
 
 ---
 
